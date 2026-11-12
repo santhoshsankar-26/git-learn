@@ -1,4 +1,6 @@
-This is my first line (gooad to have here by fifth commit)
-This is my second commit .
+This is my first line (great)
+This was my second commit ,
+This is my third commit .
 This was my fourth commit
-Its my fifth commit and altered first line  
+Its my fifth commit and altered first line
+>>>>>>> master
